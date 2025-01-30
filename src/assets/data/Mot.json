@@ -1,0 +1,6 @@
+{
+    "monde": ["pays", "continent", "océan", "montagne"],
+    "technologie": ["ordinateur", "algorithme", "intelligence", "robot"],
+    "culture": ["musique", "peinture", "cinéma", "danse"], 
+    "reunion":["malbar","plage","piton-de-la-fournaise"]
+  }
